@@ -1,7 +1,7 @@
-namespace DIO.Series.Classes
+namespace DIO.Series
 {
-    public class newclass
+    public class EntidadeBase
     {
-        
+        public int id {get; protected set;}
     }
 }
